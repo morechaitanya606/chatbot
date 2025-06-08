@@ -21,7 +21,9 @@ The integration consists of the following components:
 ### Installation
 
 1. Ensure all required packages are installed:
-
+```bash
+pip install -r requirement.txt
+```
 ```bash
 pip install langchain langchain-together
 ```
